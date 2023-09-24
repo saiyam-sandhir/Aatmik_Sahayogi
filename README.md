@@ -30,3 +30,6 @@
     Strong data security measures and privacy policies.
     Moderation for support groups and forums.
 </p>
+
+<h3>Technical Aspects</h3>
+<p>The “Aatmik Sahayogi” project aims to provide self-identifying mental health status and guidance for support. The methodology involves user profiling, data-driven matching, doctor recommendations, a Quora-like interface, and peer support. The working principle prioritizes user empowerment, privacy and data protection, community engagement, expert guidance, and continuous learning. The software requirements include Virtual Studio Code, Python (v. 3.8), TensorFlow (v. 2.12.0), MySQL (v. 4.7.0.72), and Mediapipe (v. 0.9.3.0). Functional requirements involve gathering registration details from users for accurate group suggestions and consultancy. The response time depends on the user’s operating system and internet connectivity, generally taking less than 5 seconds to prompt and show the illustrated illness. The web app is built using Python, with all data saved in SQL for security purposes.</p>
