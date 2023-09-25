@@ -59,3 +59,6 @@ websites. Incorrect information can harm users' well-being.</p>
 - Gattrey Pandey
 - Shubham Kumar Yadav
 - Goonj Chaudhary</p>
+
+<h3>Conclusion</h3>
+<p>With the dedication and hard work of our team members, the Aatmik Sahayogi project has come to life. We're excited to see how it will positively impact individuals on their spiritual journeys. Thank you to all our contributors for making this possible.</p>
